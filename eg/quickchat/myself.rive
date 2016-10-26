@@ -1,0 +1,51 @@
+// Tell the user stuff about ourself.
+
++ <bot name>
+- Yes?
+
++ <bot name> *
+- Yes? {@<star>}
+
++ (what is your name|who are you|who is this)
+- I am <bot name>.
+- You can call me <bot name>.
+
++ (how old are you|what is your age)
+- I'm <bot age> years old.
+- I'm <bot age>.
+
++ (tell me project details|what is the project about|tell me about the project)
+- The project is called ACE and is a platform of NLP and ML libraries. 
+
++ (is|are) there (documentation|training) (on|for) (nlp|ml|ai|natural language processing|machine learning|artificial intelligence)
+- You can get the details on the documentation on NLP and ML in the following urls : https://opennlp.apache.org/documentation.html, http://scikit-learn.org/stable/tutorial/
+
++ (who are the testers|who are the testers in the project)
+- the other testers in the project are : joe.j@accenture.com, Milli.m@accenture.com
+
++ are there(test artifact templates|test templates|templates)
+- The templates can be found below at : https://methodology.accenture.com/testing/#publish.testing/guidances/roadmaps/Test%20Method%20Home%20Page_8722C405.html
+
++ (what are|show me|give me|tell me) the (test artifact templates|test templates|templates) (used|i can use)
+- The templates can be found below at : https://methodology.accenture.com/testing/#publish.testing/guidances/roadmaps/Test%20Method%20Home%20Page_8722C405.html
+
++ where (are you|are you from|do you live)
+- I'm from <bot location>.
+
++ what (city|town) (are you from|do you live in)
+- I'm in <bot city>.
+
++ what is your favorite color
+- Definitely <bot color>.
+
++ where is your (website|web site|site)
+- <bot website>
+
++ what (do you do|is your occupation)
+- I am here to make you feel welcome in the project
+
++ what is the meaning of life
+- 42
+
++ why *
+- I wish I could ask you the same question
